@@ -1,0 +1,868 @@
+
+.HomePage_HomePage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.HomePage_HomePage .NavigationBar {
+	position: absolute;
+	left: 102px;
+	top: 29px;
+	width: 1262px;
+	height: 41px;
+}
+.HomePage_HomePage .NavigationBar .Register {
+	position: absolute;
+	left: 1182px;
+	top: 5px;
+	width: 80px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .Login {
+	position: absolute;
+	left: 1095px;
+	top: 5px;
+	width: 48px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .ContactUs {
+	position: absolute;
+	left: 804px;
+	top: 5px;
+	width: 90px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .Promotions {
+	position: absolute;
+	left: 670px;
+	top: 5px;
+	width: 89px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .DigitalBanking {
+	position: absolute;
+	left: 510px;
+	top: 5px;
+	width: 115px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .AboutUs {
+	position: absolute;
+	left: 385px;
+	top: 5px;
+	width: 80px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.HomePage_HomePage .NavigationBar .NexusTrustBank {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 172px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 800;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ContentinHomepagePicture {
+	position: absolute;
+	left: 0px;
+	top: 78px;
+	width: 1440px;
+	height: 532px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .pexelspixabay1645271 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1440px;
+	height: 532px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .ContentinHomepagePicture .YourFinancialFutureStartsHere {
+	position: absolute;
+	left: 105px;
+	top: 68px;
+	width: 507px;
+	height: 249px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 77.45454406738281px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .YourFinancialFutureStartsHere_1 {
+	position: absolute;
+	left: 105px;
+	top: 68px;
+	width: 507px;
+	height: 249px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 77.45454406738281px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .YourFinancialFutureStartsHere_2 {
+	position: absolute;
+	left: 105px;
+	top: 68px;
+	width: 507px;
+	height: 249px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 77.45454406738281px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .YourFinancialFutureStartsHere_3 {
+	position: absolute;
+	left: 105px;
+	top: 68px;
+	width: 507px;
+	height: 249px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 77.45454406738281px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .WelcometoNexusTrustBankwhereyourfinancialfuturestartsExploreourcomprehensiveservicesexpertguidanceandinnovativesolutionsforajourneytowardsfinancialprosperityandsecurity {
+	position: absolute;
+	left: 105px;
+	top: 317px;
+	width: 486px;
+	height: 94px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .RegisterButton {
+	position: absolute;
+	left: 832px;
+	top: 158px;
+	width: 365px;
+	height: 68px;
+	border-radius: 23px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .RegisterButton .YellowColourCurvedRectangle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 365px;
+	height: 68px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 23px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .RegisterButton .StartMyFinancialFuture {
+	position: absolute;
+	left: 60px;
+	top: 21px;
+	width: 244px;
+	height: 26px;
+	display: flex;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .LoginButton {
+	position: absolute;
+	left: 832px;
+	top: 268px;
+	width: 365px;
+	height: 68px;
+	border-radius: 23px;
+}
+.HomePage_HomePage .ContentinHomepagePicture .LoginButton .WhiteColourCurvedRectangle {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 365px;
+	height: 68px;
+	background: rgba(217,217,217,0.80);
+	border-radius: 23px;
+	border: 1px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .ContentinHomepagePicture .LoginButton .IAlreadyStarted {
+	position: absolute;
+	left: 49.86301369863014%;
+	top: 21px;
+	transform: translate(-50%, 0);
+	width: 166px;
+	height: 26px;
+	display: flex;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .Navigation4Rectangles {
+	position: absolute;
+	left: 23px;
+	top: 645px;
+	width: 1395px;
+	height: 270px;
+}
+.HomePage_HomePage .Navigation4Rectangles .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 339px;
+	height: 270px;
+	border-radius: 44px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Navigation4Rectangles .Rectangle5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 339px;
+	height: 270px;
+	border-radius: 44px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Navigation4Rectangles .Rectangle2 {
+	position: absolute;
+	left: 352px;
+	top: 0px;
+	width: 339px;
+	height: 270px;
+	border-radius: 44px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Navigation4Rectangles .Rectangle3 {
+	position: absolute;
+	left: 704px;
+	top: 0px;
+	width: 339px;
+	height: 270px;
+	border-radius: 44px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Navigation4Rectangles .Rectangle4 {
+	position: absolute;
+	left: 1056px;
+	top: 0px;
+	width: 339px;
+	height: 270px;
+	border-radius: 44px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Navigation4Rectangles .ContactUs_1 {
+	position: absolute;
+	left: 1128px;
+	top: 192px;
+	width: 195px;
+	height: 25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .Navigation4Rectangles .image3 {
+	position: absolute;
+	left: 823px;
+	top: 53px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Navigation4Rectangles .image4 {
+	position: absolute;
+	left: 1175px;
+	top: 53px;
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Navigation4Rectangles .image5 {
+	position: absolute;
+	left: 464px;
+	top: 53px;
+	width: 115px;
+	height: 111px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Navigation4Rectangles .image6 {
+	position: absolute;
+	left: 104px;
+	top: 41px;
+	width: 131px;
+	height: 123px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .AboutUs_1 {
+	position: absolute;
+	left: 55px;
+	top: 1027px;
+	width: 1330px;
+	height: 806px;
+}
+.HomePage_HomePage .AboutUs_1 .ACompleteGuidetoSellingDigitalProductsSuccessfully1 {
+	position: absolute;
+	left: 711px;
+	top: 86px;
+	width: 601px;
+	height: 538px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .AboutUs_1 .DiscoverunparalleledconveniencewithoursleekonlinebankingplatformSeamlesslymanageyourfinancesthroughanintuitiveinterfaceofferingswiftaccesstobalancestransfersbillpaymentsandmoreOurcuttingedgesecurityensuresyourdataremainsprotectedwhileinteractivetoolsassistinbudgetingandgoaltrackingExperiencethefutureofbankingatyourfingertipscompletewithattentivecustomersupportEmbraceefficientsecureanduserfriendlybankingonourwebsitetoday {
+	position: absolute;
+	left: 4px;
+	top: 104px;
+	width: 652px;
+	height: 432px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 36.30681610107422px;
+}
+.HomePage_HomePage .AboutUs_1 .AboutUs_2 {
+	position: absolute;
+	left: 530px;
+	top: 0px;
+	width: 307px;
+	height: 86px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 58.09090805053711px;
+}
+.HomePage_HomePage .AboutUs_1 .Rectangle12 {
+	position: absolute;
+	left: 0px;
+	top: 680px;
+	width: 1330px;
+	height: 126px;
+	background: rgba(0,0,0,1.00);
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .AboutUs_1 .CultivatingProsperityOneAccountataTimeWhereYourFinancialJourneyBecomesOurSharedAdventure {
+	position: absolute;
+	left: 35px;
+	top: 700px;
+	width: 1260px;
+	height: 85px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 500;
+	font-style: italic;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .InterestRates {
+	position: absolute;
+	left: 49.96527777777778%;
+	top: 1929px;
+	transform: translate(-50%, 0);
+	width: 333px;
+	height: 86px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 58.09090805053711px;
+}
+.HomePage_HomePage .MaximizeYourSavingswithNexusTrustBanksHighInterestRates {
+	position: absolute;
+	left: 72.43055555555556%;
+	top: 2402px;
+	transform: translate(-50%, 0);
+	width: 590px;
+	height: 132px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.568180084228516px;
+}
+.HomePage_HomePage .Rectangle15 {
+	position: absolute;
+	left: 55px;
+	top: 2015px;
+	width: 656px;
+	height: 325px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 40px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Rectangle16 {
+	position: absolute;
+	left: 730px;
+	top: 2015px;
+	width: 655px;
+	height: 325px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 40px;
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.HomePage_HomePage .Children12Teen11Adult1810Senior6013 {
+	position: absolute;
+	left: 187px;
+	top: 2136px;
+	width: 352px;
+	height: 162px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage ._6months131year143year15 {
+	position: absolute;
+	left: 799px;
+	top: 2146px;
+	width: 516px;
+	height: 119px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .SavingsAccounts {
+	position: absolute;
+	left: 187px;
+	top: 2058px;
+	width: 392px;
+	height: 43px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .FixedDepositAccounts {
+	position: absolute;
+	left: 883px;
+	top: 2048px;
+	width: 377px;
+	height: 43px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage ._7ExamplesOfHowDigitalTransformationImpactedBusinessPerformance1 {
+	position: absolute;
+	left: 61px;
+	top: 2402px;
+	width: 650px;
+	height: 406px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .ExploreNexusTrustBanksdedicatedsectionforthehighestinterestrateswhereyoucandiscoverarangeofsavingsandinvestmentoptionsdesignedtohelpyourmoneygrowWhetheryouresavingforthefutureorplanningforamajorpurchaseourcompetitiveinterestrateswillhelpyoureachyourfinancialgoalsfasterLearnmoreaboutourofferingsandstartearningmorewithNexusTrustBanktoday {
+	position: absolute;
+	left: 748px;
+	top: 2553px;
+	width: 578px;
+	height: 251px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 29.045454025268555px;
+}
+.HomePage_HomePage .QuickLinks {
+	position: absolute;
+	left: 188px;
+	top: 2885px;
+	width: 359px;
+	height: 337px;
+}
+.HomePage_HomePage .QuickLinks .AboutUs_3 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 112px;
+	height: 60px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .Dashboard {
+	position: absolute;
+	left: 208px;
+	top: 64px;
+	width: 142px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .Transaction {
+	position: absolute;
+	left: 208px;
+	top: 124px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .PlansandInteresetRates {
+	position: absolute;
+	left: 0px;
+	top: 287px;
+	width: 252px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .DigitalBanking_1 {
+	position: absolute;
+	left: 0px;
+	top: 124px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .Promotions_1 {
+	position: absolute;
+	left: 0px;
+	top: 182px;
+	width: 144px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .ContactUs_2 {
+	position: absolute;
+	left: 0px;
+	top: 232px;
+	width: 141px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .QuickLinks .QuickLinks_1 {
+	position: absolute;
+	left: 29.66573816155989%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.HomePage_HomePage .EmployeeLogin {
+	position: absolute;
+	left: 396px;
+	top: 3067px;
+	width: 155px;
+	height: 44px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ManagerLogin {
+	position: absolute;
+	left: 396px;
+	top: 3117px;
+	width: 183px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .Group1 {
+	position: absolute;
+	left: 476px;
+	top: 3200px;
+	width: 425px;
+	height: 64px;
+}
+.HomePage_HomePage .Group1 .SocialMedia {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 425px;
+	height: 64px;
+}
+.HomePage_HomePage .Group1 .SocialMedia .image8 {
+	position: absolute;
+	left: 172px;
+	top: 0px;
+	width: 41px;
+	height: 42px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Group1 .SocialMedia .image9 {
+	position: absolute;
+	left: 224px;
+	top: 5px;
+	width: 38px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Group1 .SocialMedia .image10 {
+	position: absolute;
+	left: 274px;
+	top: 3px;
+	width: 42px;
+	height: 38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Group1 .SocialMedia .image11 {
+	position: absolute;
+	left: 328px;
+	top: 3px;
+	width: 38px;
+	height: 39px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Group1 .SocialMedia .image12 {
+	position: absolute;
+	left: 380px;
+	top: 0px;
+	width: 45px;
+	height: 47px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .Group1 .SocialMedia .ConnectUsWith {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+	width: 213px;
+	height: 52px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ReachUs {
+	position: absolute;
+	left: 835px;
+	top: 2885px;
+	width: 400px;
+	height: 251px;
+}
+.HomePage_HomePage .ReachUs ._248123456789 {
+	position: absolute;
+	left: 46px;
+	top: 66px;
+	width: 278px;
+	height: 48px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ReachUs ._123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789 {
+	position: absolute;
+	left: 55px;
+	top: 176px;
+	width: 289px;
+	height: 75px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ReachUs .image16 {
+	position: absolute;
+	left: 2px;
+	top: 117px;
+	width: 34px;
+	height: 31px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .ReachUs .ReachUs_1 {
+	position: absolute;
+	left: 26.625%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.HomePage_HomePage .ReachUs .image18 {
+	position: absolute;
+	left: 2px;
+	top: 184px;
+	width: 30px;
+	height: 34px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .ReachUs .contactnexustrustcom {
+	position: absolute;
+	left: 50px;
+	top: 118px;
+	width: 350px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.HomePage_HomePage .ReachUs .image17 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 32px;
+	height: 30px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.HomePage_HomePage .PlansandRates {
+	position: absolute;
+	left: 784px;
+	top: 837px;
+	width: 246px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .Transaction_1 {
+	position: absolute;
+	left: 446px;
+	top: 837px;
+	width: 198px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}
+.HomePage_HomePage .Dashboard_1 {
+	position: absolute;
+	left: 105px;
+	top: 837px;
+	width: 172px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 400;
+	line-height: 38.727272033691406px;
+}

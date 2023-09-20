@@ -1,0 +1,52 @@
+
+.UnsuccessfulPopupu_UnsuccessfulPopupu {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.UnsuccessfulPopupu_UnsuccessfulPopupu .Frame2 {
+	position: absolute;
+	left: 338.75px;
+	top: 1626px;
+	width: 271px;
+	height: 271px;
+}
+.UnsuccessfulPopupu_UnsuccessfulPopupu .Failed {
+	position: absolute;
+	left: 368.56px;
+	top: 233.06px;
+	width: 661.24px;
+	height: 186.99px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 130.07999999999998px;
+	font-weight: 700;
+	line-height: 157.42636081695557px;
+}
+.UnsuccessfulPopupu_UnsuccessfulPopupu .Rectangle28 {
+	position: absolute;
+	left: 67.75px;
+	top: 62.33px;
+	width: 1306.22px;
+	height: 528.45px;
+	background: rgba(217,217,217,0.00);
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}
+.UnsuccessfulPopupu_UnsuccessfulPopupu .icons8cancel961 {
+	position: absolute;
+	left: 921.4px;
+	top: 233.06px;
+	width: 149.05px;
+	height: 159.89px;
+	object-fit: cover;
+	overflow: hidden;
+}

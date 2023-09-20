@@ -1,0 +1,12 @@
+
+.Tooltip_2_Tooltip {
+	width: 457px;
+	height: 53px;
+	display: flex;
+	padding-top: 16px;
+	padding-right: 20px;
+	padding-bottom: 16px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	border-radius: 8px;
+}

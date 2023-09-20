@@ -1,0 +1,716 @@
+
+.EmplyeeProfile_EmplyeeProfile {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar {
+	position: absolute;
+	left: 101px;
+	top: 35px;
+	width: 894px;
+	height: 41px;
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar .ContactUs {
+	position: absolute;
+	left: 804px;
+	top: 5px;
+	width: 90px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar .Promotions {
+	position: absolute;
+	left: 670px;
+	top: 5px;
+	width: 89px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar .DigitalBanking {
+	position: absolute;
+	left: 510px;
+	top: 5px;
+	width: 115px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar .AboutUs {
+	position: absolute;
+	left: 385px;
+	top: 5px;
+	width: 80px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.EmplyeeProfile_EmplyeeProfile .NavigationBar .NexusTrustBank {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 172px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 800;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks {
+	position: absolute;
+	left: 196px;
+	top: 1154px;
+	width: 460px;
+	height: 282px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .AboutUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 112px;
+	height: 60px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .Dashboard {
+	position: absolute;
+	left: 208px;
+	top: 64px;
+	width: 142px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .Transaction {
+	position: absolute;
+	left: 208px;
+	top: 118px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .PlansandInteresetRates {
+	position: absolute;
+	left: 208px;
+	top: 174px;
+	width: 252px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .DigitalBanking_1 {
+	position: absolute;
+	left: 0px;
+	top: 124px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .Promotions_1 {
+	position: absolute;
+	left: 0px;
+	top: 182px;
+	width: 144px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .ContactUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 232px;
+	width: 141px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .QuickLinks .QuickLinks_1 {
+	position: absolute;
+	left: 23.152173913043477%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia {
+	position: absolute;
+	left: 473px;
+	top: 1458px;
+	width: 425px;
+	height: 64px;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .image8 {
+	position: absolute;
+	left: 172px;
+	top: 0px;
+	width: 41px;
+	height: 42px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .image9 {
+	position: absolute;
+	left: 224px;
+	top: 5px;
+	width: 38px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .image10 {
+	position: absolute;
+	left: 274px;
+	top: 3px;
+	width: 42px;
+	height: 38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .image11 {
+	position: absolute;
+	left: 328px;
+	top: 3px;
+	width: 38px;
+	height: 39px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .image12 {
+	position: absolute;
+	left: 380px;
+	top: 0px;
+	width: 45px;
+	height: 47px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .SocialMedia .ConnectUsWith {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+	width: 213px;
+	height: 52px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs {
+	position: absolute;
+	left: 843px;
+	top: 1154px;
+	width: 400px;
+	height: 251px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs ._248123456789 {
+	position: absolute;
+	left: 46px;
+	top: 66px;
+	width: 278px;
+	height: 48px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs ._123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789 {
+	position: absolute;
+	left: 55px;
+	top: 176px;
+	width: 289px;
+	height: 75px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs .image16 {
+	position: absolute;
+	left: 2px;
+	top: 117px;
+	width: 34px;
+	height: 31px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs .ReachUs_1 {
+	position: absolute;
+	left: 26.625%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs .image18 {
+	position: absolute;
+	left: 2px;
+	top: 184px;
+	width: 30px;
+	height: 34px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs .contactnexustrustcom {
+	position: absolute;
+	left: 50px;
+	top: 118px;
+	width: 350px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .ReachUs .image17 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 32px;
+	height: 30px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .logout {
+	position: absolute;
+	left: 1255px;
+	top: 33px;
+	width: 37px;
+	height: 41px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .ProfilePicture {
+	position: absolute;
+	left: 1335px;
+	top: 31px;
+	width: 45px;
+	height: 45px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .AccountNavigation {
+	position: absolute;
+	left: 261px;
+	top: 144px;
+	width: 0px;
+	height: 0px;
+}
+.EmplyeeProfile_EmplyeeProfile .AccountNavigation .FixedDepositesLoans {
+	visibility: hidden;
+	position: absolute;
+	left: 631px;
+	top: 0px;
+	width: 237px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .AccountNavigation .SavingsAccount {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 163px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .AccountNavigation .CheckingAccount {
+	visibility: hidden;
+	position: absolute;
+	left: 305px;
+	top: 0px;
+	width: 184px;
+	height: 44px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .ProfilePicture_1 {
+	position: absolute;
+	left: 180px;
+	top: 289px;
+	width: 204px;
+	height: 182px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails {
+	position: absolute;
+	left: 508px;
+	top: 263px;
+	width: 520px;
+	height: 339px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .Name {
+	position: absolute;
+	left: 55px;
+	top: 123px;
+	width: 107px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .ID {
+	position: absolute;
+	left: 55px;
+	top: 66px;
+	width: 124px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails ._123456789 {
+	position: absolute;
+	left: 265px;
+	top: 66px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .ABC {
+	position: absolute;
+	left: 265px;
+	top: 129px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails ._22 {
+	position: absolute;
+	left: 265px;
+	top: 185px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails ._234123456789 {
+	position: absolute;
+	left: 263px;
+	top: 241px;
+	width: 257px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .Employee {
+	position: absolute;
+	left: 263px;
+	top: 298px;
+	width: 257px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .YourDetails_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 196px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38.727272033691406px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .Age {
+	position: absolute;
+	left: 55px;
+	top: 182px;
+	width: 76px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .TelephoneNo {
+	position: absolute;
+	left: 55px;
+	top: 241px;
+	width: 234px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .YourDetails .Position {
+	position: absolute;
+	left: 55px;
+	top: 298px;
+	width: 124px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .Rectangle22 {
+	position: absolute;
+	left: 202px;
+	top: 531px;
+	width: 162px;
+	height: 49px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 48px;
+}
+.EmplyeeProfile_EmplyeeProfile .Logout {
+	position: absolute;
+	left: 242px;
+	top: 544px;
+	width: 69px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .EmployeePortal {
+	position: absolute;
+	left: 160px;
+	top: 211px;
+	width: 293px;
+	height: 32px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.568180084228516px;
+}
+.EmplyeeProfile_EmplyeeProfile .LoanRequest {
+	position: absolute;
+	left: 182px;
+	top: 681px;
+	width: 293px;
+	height: 32px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.568180084228516px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 {
+	position: absolute;
+	left: 182px;
+	top: 769px;
+	width: 520px;
+	height: 323px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Rectangle21 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 520px;
+	height: 323px;
+	border-radius: 31px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .AccountNumber {
+	position: absolute;
+	left: 24px;
+	top: 37px;
+	width: 172px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Rectangle8 {
+	position: absolute;
+	left: 203px;
+	top: 24px;
+	width: 286px;
+	height: 49px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 48px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Amount {
+	position: absolute;
+	left: 49px;
+	top: 104px;
+	width: 122px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .TimePeriodinmonths {
+	position: absolute;
+	left: 36px;
+	top: 163px;
+	width: 198px;
+	height: 48px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Rectangle19 {
+	position: absolute;
+	left: 203px;
+	top: 93px;
+	width: 286px;
+	height: 49px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 48px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Rectangle22_1 {
+	position: absolute;
+	left: 203px;
+	top: 162px;
+	width: 286px;
+	height: 49px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 48px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Rectangle20 {
+	position: absolute;
+	left: 38px;
+	top: 250px;
+	width: 162px;
+	height: 49px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 48px;
+}
+.EmplyeeProfile_EmplyeeProfile .Transaction_1 .Proceed {
+	position: absolute;
+	left: 78px;
+	top: 263px;
+	width: 82px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.EmplyeeProfile_EmplyeeProfile .MarineProvince {
+	position: absolute;
+	left: 769px;
+	top: 617px;
+	width: 226px;
+	height: 27px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.EmplyeeProfile_EmplyeeProfile .Branch {
+	position: absolute;
+	left: 563px;
+	top: 617px;
+	width: 230px;
+	height: 38px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}

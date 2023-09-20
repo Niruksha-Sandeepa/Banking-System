@@ -1,0 +1,30 @@
+
+.Row_Row {
+	width: 240px;
+	height: 36px;
+	display: flex;
+	box-sizing: border-box;
+	background: rgba(255,255,255,0.00);
+}
+.Row_Row .Cell {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	border: 1px solid rgba(91.37499645352364,91.37499645352364,91.37499645352364,1);
+}
+.Row_Row .Cell .Content {
+}
+.Row_Row .Cell .Content .Text {
+	font-weight: 400;
+}
+.Row_Row .Cell_1 {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	border: 1px solid rgba(91.37499645352364,91.37499645352364,91.37499645352364,1);
+}
+.Row_Row .Cell_1 .Content_1 {
+}
+.Row_Row .Cell_1 .Content_1 .Text_1 {
+	font-weight: 400;
+}

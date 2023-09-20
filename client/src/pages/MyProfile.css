@@ -1,0 +1,669 @@
+
+.MyProfile_MyProfile {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.MyProfile_MyProfile .NavigationBar {
+	position: absolute;
+	left: 101px;
+	top: 35px;
+	width: 894px;
+	height: 41px;
+}
+.MyProfile_MyProfile .NavigationBar .ContactUs {
+	position: absolute;
+	left: 804px;
+	top: 5px;
+	width: 90px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.MyProfile_MyProfile .NavigationBar .Promotions {
+	position: absolute;
+	left: 670px;
+	top: 5px;
+	width: 89px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.MyProfile_MyProfile .NavigationBar .DigitalBanking {
+	position: absolute;
+	left: 510px;
+	top: 5px;
+	width: 115px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.MyProfile_MyProfile .NavigationBar .AboutUs {
+	position: absolute;
+	left: 385px;
+	top: 5px;
+	width: 80px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.MyProfile_MyProfile .NavigationBar .NexusTrustBank {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 172px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 800;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks {
+	position: absolute;
+	left: 196px;
+	top: 1154px;
+	width: 460px;
+	height: 282px;
+}
+.MyProfile_MyProfile .QuickLinks .AboutUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 112px;
+	height: 60px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .Dashboard {
+	position: absolute;
+	left: 208px;
+	top: 64px;
+	width: 142px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .Transaction {
+	position: absolute;
+	left: 208px;
+	top: 118px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .PlansandInteresetRates {
+	position: absolute;
+	left: 208px;
+	top: 174px;
+	width: 252px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .DigitalBanking_1 {
+	position: absolute;
+	left: 0px;
+	top: 124px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .Promotions_1 {
+	position: absolute;
+	left: 0px;
+	top: 182px;
+	width: 144px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .ContactUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 232px;
+	width: 141px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .QuickLinks .QuickLinks_1 {
+	position: absolute;
+	left: 23.152173913043477%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.MyProfile_MyProfile .SocialMedia {
+	position: absolute;
+	left: 473px;
+	top: 1458px;
+	width: 425px;
+	height: 64px;
+}
+.MyProfile_MyProfile .SocialMedia .image8 {
+	position: absolute;
+	left: 172px;
+	top: 0px;
+	width: 41px;
+	height: 42px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .SocialMedia .image9 {
+	position: absolute;
+	left: 224px;
+	top: 5px;
+	width: 38px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .SocialMedia .image10 {
+	position: absolute;
+	left: 274px;
+	top: 3px;
+	width: 42px;
+	height: 38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .SocialMedia .image11 {
+	position: absolute;
+	left: 328px;
+	top: 3px;
+	width: 38px;
+	height: 39px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .SocialMedia .image12 {
+	position: absolute;
+	left: 380px;
+	top: 0px;
+	width: 45px;
+	height: 47px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .SocialMedia .ConnectUsWith {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+	width: 213px;
+	height: 52px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .ReachUs {
+	position: absolute;
+	left: 843px;
+	top: 1154px;
+	width: 400px;
+	height: 251px;
+}
+.MyProfile_MyProfile .ReachUs ._248123456789 {
+	position: absolute;
+	left: 46px;
+	top: 66px;
+	width: 278px;
+	height: 48px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .ReachUs ._123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789 {
+	position: absolute;
+	left: 55px;
+	top: 176px;
+	width: 289px;
+	height: 75px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .ReachUs .image16 {
+	position: absolute;
+	left: 2px;
+	top: 117px;
+	width: 34px;
+	height: 31px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .ReachUs .ReachUs_1 {
+	position: absolute;
+	left: 26.625%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.MyProfile_MyProfile .ReachUs .image18 {
+	position: absolute;
+	left: 2px;
+	top: 184px;
+	width: 30px;
+	height: 34px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .ReachUs .contactnexustrustcom {
+	position: absolute;
+	left: 50px;
+	top: 118px;
+	width: 350px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .ReachUs .image17 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 32px;
+	height: 30px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .logout {
+	position: absolute;
+	left: 1255px;
+	top: 33px;
+	width: 37px;
+	height: 41px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .ProfilePicture {
+	position: absolute;
+	left: 1335px;
+	top: 31px;
+	width: 45px;
+	height: 45px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .MyProfile_1 {
+	position: absolute;
+	left: 128px;
+	top: 253px;
+	width: 204px;
+	height: 32px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.568180084228516px;
+}
+.MyProfile_MyProfile .ProfilePicture_1 {
+	position: absolute;
+	left: 230px;
+	top: 348px;
+	width: 204px;
+	height: 182px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.MyProfile_MyProfile .YourDetails {
+	position: absolute;
+	left: 591px;
+	top: 348px;
+	width: 525px;
+	height: 311px;
+}
+.MyProfile_MyProfile .YourDetails .Name {
+	position: absolute;
+	left: 55px;
+	top: 137px;
+	width: 107px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails .ID {
+	position: absolute;
+	left: 55px;
+	top: 66px;
+	width: 124px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails ._123456789 {
+	position: absolute;
+	left: 265px;
+	top: 66px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails .ABC {
+	position: absolute;
+	left: 265px;
+	top: 143px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails ._22 {
+	position: absolute;
+	left: 265px;
+	top: 206px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails ._234123456789 {
+	position: absolute;
+	left: 265px;
+	top: 270px;
+	width: 260px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails .YourDetails_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 196px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38.727272033691406px;
+}
+.MyProfile_MyProfile .YourDetails .Age {
+	position: absolute;
+	left: 55px;
+	top: 203px;
+	width: 76px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .YourDetails .TelephoneNo {
+	position: absolute;
+	left: 55px;
+	top: 270px;
+	width: 237px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails {
+	position: absolute;
+	left: 591px;
+	top: 714px;
+	width: 501px;
+	height: 233px;
+}
+.MyProfile_MyProfile .AccountDetails .AccountNo {
+	position: absolute;
+	left: 69px;
+	top: 60px;
+	width: 197px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .Adult {
+	position: absolute;
+	left: 275px;
+	top: 126px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .MarineProvince {
+	position: absolute;
+	left: 275px;
+	top: 192px;
+	width: 226px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .MarineProvince_1 {
+	position: absolute;
+	left: 275px;
+	top: 192px;
+	width: 226px;
+	height: 27px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails ._123456789_1 {
+	position: absolute;
+	left: 272px;
+	top: 60px;
+	width: 157px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 500;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .AccountDetails_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 266px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 700;
+	line-height: 38.727272033691406px;
+}
+.MyProfile_MyProfile .AccountDetails .SavingsPlan {
+	position: absolute;
+	left: 69px;
+	top: 126px;
+	width: 230px;
+	height: 38px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .Branch {
+	position: absolute;
+	left: 69px;
+	top: 192px;
+	width: 230px;
+	height: 38px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .AccountDetails .Branch_1 {
+	position: absolute;
+	left: 69px;
+	top: 192px;
+	width: 230px;
+	height: 38px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 28px;
+	font-weight: 600;
+	line-height: 33.8863639831543px;
+}
+.MyProfile_MyProfile .Rectangle22 {
+	position: absolute;
+	left: 252px;
+	top: 590px;
+	width: 162px;
+	height: 49px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 48px;
+}
+.MyProfile_MyProfile .Logout {
+	position: absolute;
+	left: 292px;
+	top: 603px;
+	width: 69px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .AccountNavigation {
+	position: absolute;
+	left: 250px;
+	top: 154px;
+	width: 868px;
+	height: 44px;
+}
+.MyProfile_MyProfile .AccountNavigation .FixedDepositesLoans {
+	position: absolute;
+	left: 631px;
+	top: 0px;
+	width: 237px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .AccountNavigation .SavingsAccount {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 163px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.MyProfile_MyProfile .AccountNavigation .CheckingAccount {
+	position: absolute;
+	left: 305px;
+	top: 0px;
+	width: 184px;
+	height: 44px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}

@@ -1,0 +1,759 @@
+
+.CheckingAccount_CheckingAccount {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.CheckingAccount_CheckingAccount .NavigationBar {
+	position: absolute;
+	left: 101px;
+	top: 35px;
+	width: 894px;
+	height: 41px;
+}
+.CheckingAccount_CheckingAccount .NavigationBar .ContactUs {
+	position: absolute;
+	left: 804px;
+	top: 5px;
+	width: 90px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.CheckingAccount_CheckingAccount .NavigationBar .Promotions {
+	position: absolute;
+	left: 670px;
+	top: 5px;
+	width: 89px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.CheckingAccount_CheckingAccount .NavigationBar .DigitalBanking {
+	position: absolute;
+	left: 510px;
+	top: 5px;
+	width: 115px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.CheckingAccount_CheckingAccount .NavigationBar .AboutUs {
+	position: absolute;
+	left: 385px;
+	top: 5px;
+	width: 80px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 15px;
+	font-weight: 500;
+	line-height: 18.15340805053711px;
+}
+.CheckingAccount_CheckingAccount .NavigationBar .NexusTrustBank {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 172px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 800;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks {
+	position: absolute;
+	left: 196px;
+	top: 1154px;
+	width: 460px;
+	height: 282px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .AboutUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 112px;
+	height: 60px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .Dashboard {
+	position: absolute;
+	left: 208px;
+	top: 64px;
+	width: 142px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .Transaction {
+	position: absolute;
+	left: 208px;
+	top: 118px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .PlansandInteresetRates {
+	position: absolute;
+	left: 208px;
+	top: 174px;
+	width: 252px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .DigitalBanking_1 {
+	position: absolute;
+	left: 0px;
+	top: 124px;
+	width: 151px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .Promotions_1 {
+	position: absolute;
+	left: 0px;
+	top: 182px;
+	width: 144px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .ContactUs_1 {
+	position: absolute;
+	left: 0px;
+	top: 232px;
+	width: 141px;
+	height: 50px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .QuickLinks .QuickLinks_1 {
+	position: absolute;
+	left: 23.152173913043477%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.CheckingAccount_CheckingAccount .SocialMedia {
+	position: absolute;
+	left: 473px;
+	top: 1458px;
+	width: 425px;
+	height: 64px;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .image8 {
+	position: absolute;
+	left: 172px;
+	top: 0px;
+	width: 41px;
+	height: 42px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .image9 {
+	position: absolute;
+	left: 224px;
+	top: 5px;
+	width: 38px;
+	height: 33px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .image10 {
+	position: absolute;
+	left: 274px;
+	top: 3px;
+	width: 42px;
+	height: 38px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .image11 {
+	position: absolute;
+	left: 328px;
+	top: 3px;
+	width: 38px;
+	height: 39px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .image12 {
+	position: absolute;
+	left: 380px;
+	top: 0px;
+	width: 45px;
+	height: 47px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .SocialMedia .ConnectUsWith {
+	position: absolute;
+	left: 0px;
+	top: 12px;
+	width: 213px;
+	height: 52px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 500;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .ReachUs {
+	position: absolute;
+	left: 843px;
+	top: 1154px;
+	width: 400px;
+	height: 251px;
+}
+.CheckingAccount_CheckingAccount .ReachUs ._248123456789 {
+	position: absolute;
+	left: 46px;
+	top: 66px;
+	width: 278px;
+	height: 48px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .ReachUs ._123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789 {
+	position: absolute;
+	left: 55px;
+	top: 176px;
+	width: 289px;
+	height: 75px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .ReachUs .image16 {
+	position: absolute;
+	left: 2px;
+	top: 117px;
+	width: 34px;
+	height: 31px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .ReachUs .ReachUs_1 {
+	position: absolute;
+	left: 26.625%;
+	top: 0px;
+	transform: translate(-50%, 0);
+	width: 213px;
+	height: 29px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.CheckingAccount_CheckingAccount .ReachUs .image18 {
+	position: absolute;
+	left: 2px;
+	top: 184px;
+	width: 30px;
+	height: 34px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .ReachUs .contactnexustrustcom {
+	position: absolute;
+	left: 50px;
+	top: 118px;
+	width: 350px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .ReachUs .image17 {
+	position: absolute;
+	left: 0px;
+	top: 64px;
+	width: 32px;
+	height: 30px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .CheckingAccount_1 {
+	position: absolute;
+	left: 128px;
+	top: 329px;
+	width: 297px;
+	height: 39px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: 600;
+	line-height: 38.727272033691406px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory {
+	position: absolute;
+	left: 770px;
+	top: 376px;
+	width: 570px;
+	height: 588px;
+	border-radius: 31px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Rectangle18 {
+	position: absolute;
+	left: 0px;
+	top: 41px;
+	width: 550px;
+	height: 547px;
+	border-radius: 31px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .TransactionHistory_1 {
+	position: absolute;
+	left: 34px;
+	top: 0px;
+	width: 202px;
+	height: 30px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._9520 {
+	position: absolute;
+	left: 415px;
+	top: 467px;
+	width: 155px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Transferringtoaacc40 {
+	position: absolute;
+	left: 49px;
+	top: 467px;
+	width: 300px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._10August20230713 {
+	position: absolute;
+	left: 47px;
+	top: 409px;
+	width: 228px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Transferringtoaacc15 {
+	position: absolute;
+	left: 49px;
+	top: 291px;
+	width: 300px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Transferfromacc48 {
+	position: absolute;
+	left: 49px;
+	top: 381px;
+	width: 300px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._1September20231341 {
+	position: absolute;
+	left: 47px;
+	top: 233px;
+	width: 249px;
+	height: 23px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._20August20230825 {
+	position: absolute;
+	left: 49px;
+	top: 322px;
+	width: 234px;
+	height: 25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._1023 {
+	position: absolute;
+	left: 408px;
+	top: 217px;
+	width: 153px;
+	height: 26px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._4520 {
+	position: absolute;
+	left: 408px;
+	top: 291px;
+	width: 87px;
+	height: 25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._52036 {
+	position: absolute;
+	left: 408px;
+	top: 383px;
+	width: 155px;
+	height: 26px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Transferringtoaacc89 {
+	position: absolute;
+	left: 49px;
+	top: 209px;
+	width: 296px;
+	height: 42px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory .Transferfromacc45 {
+	position: absolute;
+	left: 49px;
+	top: 110px;
+	width: 283px;
+	height: 41px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._5September20231021 {
+	position: absolute;
+	left: 57px;
+	top: 141px;
+	width: 266px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .TransactionHistory ._5102 {
+	position: absolute;
+	left: 408px;
+	top: 118px;
+	width: 155px;
+	height: 25px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .Dashboard_1 {
+	position: absolute;
+	left: 128px;
+	top: 253px;
+	width: 204px;
+	height: 32px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 43.568180084228516px;
+}
+.CheckingAccount_CheckingAccount .Balance {
+	position: absolute;
+	left: 101px;
+	top: 425px;
+	width: 194px;
+	height: 134px;
+	border-radius: 41px;
+}
+.CheckingAccount_CheckingAccount .Balance .Balance_1 {
+	position: absolute;
+	left: 31px;
+	top: 0px;
+	width: 94px;
+	height: 28px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .Balance .Rectangle19 {
+	position: absolute;
+	left: 0px;
+	top: 35px;
+	width: 194px;
+	height: 99px;
+	border-radius: 41px;
+}
+.CheckingAccount_CheckingAccount .Balance ._50000 {
+	position: absolute;
+	left: 46px;
+	top: 72px;
+	width: 117px;
+	height: 26px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 29.045454025268555px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 {
+	position: absolute;
+	left: 84px;
+	top: 669px;
+	width: 520px;
+	height: 289px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Rectangle21 {
+	position: absolute;
+	left: 0px;
+	top: 29px;
+	width: 520px;
+	height: 260px;
+	border-radius: 31px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Transaction_2 {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	width: 123px;
+	height: 23px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .ToAccount {
+	position: absolute;
+	left: 50px;
+	top: 67px;
+	width: 123px;
+	height: 23px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Amount {
+	position: absolute;
+	left: 49px;
+	top: 134px;
+	width: 122px;
+	height: 22px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Rectangle8 {
+	position: absolute;
+	left: 203px;
+	top: 54px;
+	width: 286px;
+	height: 49px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 48px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Rectangle19_1 {
+	position: absolute;
+	left: 203px;
+	top: 120px;
+	width: 286px;
+	height: 49px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 48px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Rectangle20 {
+	position: absolute;
+	left: 57px;
+	top: 203px;
+	width: 162px;
+	height: 49px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 48px;
+}
+.CheckingAccount_CheckingAccount .Transaction_1 .Proceed {
+	position: absolute;
+	left: 97px;
+	top: 216px;
+	width: 82px;
+	height: 24px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount ._4August20231423 {
+	position: absolute;
+	left: 815px;
+	top: 872px;
+	width: 213px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 300;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .logout {
+	position: absolute;
+	left: 1256px;
+	top: 35px;
+	width: 37px;
+	height: 41px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .ProfilePicture {
+	position: absolute;
+	left: 1345px;
+	top: 31px;
+	width: 45px;
+	height: 45px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.CheckingAccount_CheckingAccount .AccountNavigation {
+	position: absolute;
+	left: 292px;
+	top: 152px;
+	width: 868px;
+	height: 44px;
+}
+.CheckingAccount_CheckingAccount .AccountNavigation .FixedDepositesLoans {
+	position: absolute;
+	left: 631px;
+	top: 0px;
+	width: 237px;
+	height: 24px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .AccountNavigation .SavingsAccount {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 163px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}
+.CheckingAccount_CheckingAccount .AccountNavigation .CheckingAccount_2 {
+	position: absolute;
+	left: 305px;
+	top: 0px;
+	width: 184px;
+	height: 44px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 24.204544067382812px;
+}

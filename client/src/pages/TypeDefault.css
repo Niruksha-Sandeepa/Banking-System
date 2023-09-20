@@ -1,0 +1,36 @@
+
+.TypeDefault_TypeDefault {
+	width: 120px;
+	height: 36px;
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+	background: rgba(255,255,255,0.00);
+	border: 1px solid rgba(91.37499645352364,91.37499645352364,91.37499645352364,1);
+	box-sizing: border-box;
+}
+.TypeDefault_TypeDefault .Content {
+	position: relative;
+	flex: none;
+	margin-bottom: NaNpx;
+	height: 36px;
+	align-self: stretch;
+	display: flex;
+	padding-top: 10px;
+	padding-right: 12px;
+	padding-bottom: 10px;
+	padding-left: 12px;
+	box-sizing: border-box;
+}
+.TypeDefault_TypeDefault .Content .Text {
+	position: relative;
+	flex: none;
+	margin-right: NaNpx;
+	width: 96px;
+	height: 16px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 15.59999942779541px;
+}
