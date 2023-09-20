@@ -36,7 +36,7 @@ export default function EmplyeeProfile () {
 			</div>
 			<div className='ReachUs'>
 				<span className='_248123456789'>+248 123 456 789</span>
-				<span className='_123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789'>123 Ocean Avenue,Coral Bay, Seaside City,Marine Province, Zip Code: 56789</span>
+				<span className='_123OceanAvenueCoralBaySeasideCityMarineProvinceZipCode56789'>123 Ocean Avenue,Coral Bay,Seaside City,Marine Province,Zip Code: 56789</span>
 				<img className='image16' src = {ImgAsset.ContactUsPopup_image13} />
 				<span className='ReachUs_1'>Reach Us</span>
 				<img className='image18' src = {ImgAsset.ContactUsPopup_image15} />
