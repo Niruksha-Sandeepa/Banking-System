@@ -1,0 +1,100 @@
+
+ .ManagerLoginPopup_ManagerLoginPopup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.ManagerLoginPopup_ManagerLoginPopup .Rectangle7 {
+	position: absolute;
+	left: 532px;
+	top: 1027.25px;
+	width: 378px;
+	height: 173.25px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 84px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .Rectangle6 {
+	position: absolute;
+	left: 497px;
+	top: 740.25px;
+	width: 745.5px;
+	height: 173.25px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 84px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .AccountNo {
+	position: absolute;
+	left: 197.75px;
+	top: 474.25px;
+	width: 1044.75px;
+	height: 173.25px;
+	border-radius: 84px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .AccountNo .EmployeeID {
+	position: absolute;
+	left: 0px;
+	top: 66.5px;
+	width: 285.25px;
+	height: 42px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 50.82954454421997px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .AccountNo .Rectangle5 {
+	position: absolute;
+	left: 299.25px;
+	top: 0px;
+	width: 745.5px;
+	height: 173.25px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 84px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .Password {
+	position: absolute;
+	left: 200px;
+	top: 794.5px;
+	width: 285.25px;
+	height: 42px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 42px;
+	font-weight: 400;
+	line-height: 50.82954454421997px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .ManagerLogin {
+	position: absolute;
+	left: 395.5px;
+	top: 210px;
+	width: 651px;
+	height: 94.5px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 84px;
+	font-weight: 700;
+	line-height: 101.65908908843994px;
+}
+.ManagerLoginPopup_ManagerLoginPopup .Login {
+	position: absolute;
+	left: 87.5%;
+	top: 145.57619647355165%;
+	transform: translate(-50%, -50%);
+	width: 379.75px;
+	height: 173.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 70px;
+	font-weight: 600;
+	line-height: 84.71590423583984px; 
+
+	
+} 
