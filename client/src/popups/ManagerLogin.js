@@ -5,7 +5,7 @@ export default function ManagerLoginPopup () {
 	return (
 		<div className='ManagerLoginPopup_ManagerLoginPopup'>
 			{/* <Link to='/branchmanager'> */}
-				<div className='Rectangle7'>Login</div>
+				<div className='Rectangle7'/>
 			{/* </Link> */}
 			<div className='Rectangle6'/>
 			<div className='AccountNo'>
@@ -14,7 +14,6 @@ export default function ManagerLoginPopup () {
 			</div>
 			<span className='Password'>Password:</span>
 		    <span className='ManagerLogin'>Manager Login</span> 
-			{/* <div className='Login'></div> */}
 			<span className='Login'>Login</span>
 		</div>
 	)

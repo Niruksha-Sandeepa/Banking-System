@@ -1,0 +1,240 @@
+
+.RegisterPopup_RegisterPopup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: #000000;
+}
+
+.RegisterPopup_RegisterPopup .Rectangle7 {
+	position: absolute;
+    left: 614.57px;
+	top: 1301.6200000000001px;
+	width: 333.71px;
+	height: 96.64px;
+	background: rgba(255,207,67,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle6 {
+	position: absolute;
+	left: 570.78px;
+	top: 363.91px;
+	width: 656.85px;
+	height: 87.58px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle8 {
+	position: absolute;
+	left: 570.78px;
+	top: 489.24px;
+	width: 656.85px;
+	height: 87.58px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle9 {
+	position: absolute;
+	left: 570.78px;
+	top: 614.57px;
+	width: 656.85px;
+	height: 89.09px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle10 {
+	position: absolute;
+	left: 570.78px;
+	top: 866.74px;
+	width: 656.85px;
+	height: 89.09px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle11 {
+	position: absolute;
+	left: 570.78px;
+	top: 989.05px;
+	width: 656.85px;
+	height: 87.58px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Rectangle12 {
+	position: absolute;
+	left: 570.78px;
+	top: 1109.85px;
+	width: 656.85px;
+	height: 89.09px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .AccountNo {
+	position: absolute;
+	left: 235.56px;
+	top: 240.09px;
+	width: 992.5827954101562px;
+	height: 86.7210400390625px;
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .AccountNo .NICNumber {
+	position: absolute;
+	left: 0px;
+	top: 22.71672607421875px;
+	width: 251.2687371826172px;
+	height: 21.02313720703125px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .AccountNo .Rectangle5 {
+	position: absolute;
+	left: 335.8926983642578px;
+	top: 0px;
+	width: 656.6900970458985px;
+	height: 86.7210400390625px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .EmailAddress {
+	position: absolute;
+    left: 231px;
+	top: 513.4px;
+	width: 291.43px;
+	height: 19.63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .FullName {
+	position: absolute;
+	left: 198px;
+    top: 398.64px;
+	width: 297.47px;
+	height: 19.63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .YearofBirth {
+	position: absolute;
+	left: 190px;
+	top: 647.79px;
+	width: 347.3px;
+	height: 19.63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .Rectangle13 {
+	position: absolute;
+	left: 570.78px;
+	top: 736.88px;
+	width: 656.85px;
+	height: 95.13px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 72.48px;
+}
+.RegisterPopup_RegisterPopup .Branch {
+	position: absolute;
+	left: 148px;
+	top: 770.1px;
+	width: 347.3px;
+	height: 19.63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .AccountType {
+	position: absolute;
+	left: 220px;
+	top: 896.94px;
+	width: 297.47px;
+	height: 21.14px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .Password {
+	position: absolute;
+	left: 220px;
+	top: 1022.27px;
+	width: 224.99px;
+	height: 21.14px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .ConfirmPassword {
+	position: absolute;
+	left: 209.89000000000001px;
+	top: 1141.56px;
+	width: 375.99px;
+	height: 78.52px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .AlreadyhaveanaccountLogin {
+	position: absolute;
+	left: 398.64px;
+	top:200%;
+	width: 762.55px;
+	height: 45.3px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 36.24px;
+	font-weight: 400;
+	line-height: 43.85863557815552px;
+}
+.RegisterPopup_RegisterPopup .Register {
+	position: absolute;
+	left:53%;
+    top:180%;
+	transform: translate(-50%, -50%);
+	width: 280.86px;
+	height: 58.89px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 54.36px;
+	font-weight: 600;
+	line-height: 65.78795192718506px;
+}
+.RegisterPopup_RegisterPopup .Register_1 {
+	position: absolute;
+	left: 628.16px;
+	top: 75.5px;
+	width: 317.1px;
+	height: 52.85px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 72.48px;
+	font-weight: 700;
+	line-height: 87.71727115631104px;
+}
