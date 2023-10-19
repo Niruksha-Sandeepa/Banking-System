@@ -1,0 +1,135 @@
+
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup .Rectangle20 {
+	position: absolute;
+	left: 97.96000000000001px;
+	top: 219.62px;
+	width: 1287.7px;
+	height: 985.9200000000001px;
+	border-radius: 48.980000000000004px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup .AccountAmountDueDatePaymentDate {
+	position: absolute;
+	left: 139.04000000000002px;
+	top: 295.46000000000004px;
+	width: 1197.64px;
+	height: 34.760000000000005px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 37.92px;
+	font-weight: 700;
+	line-height: 45.89181735992432px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._747488381600000209202214092022 {
+	position: absolute;
+	left: 135.88px;
+	top: 404.48px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._74748838156001406202205052022 {
+	position: absolute;
+	left: 139.04000000000002px;
+	top: 608.3000000000001px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._86578381600001206202214062022 {
+	position: absolute;
+	left: 139.04000000000002px;
+	top: 704.6800000000001px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._97488381780002205202214052022 {
+	position: absolute;
+	left: 135.88px;
+	top: 801.0600000000001px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._97656789600001205202212052022 {
+	position: absolute;
+	left: 135.88px;
+	top: 902.1800000000001px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._96786578450001205202214052022 {
+	position: absolute;
+	left: 135.88px;
+	top: 1009.62px;
+	width: 1166.04px;
+	height: 33.18px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup ._744512038100001506202210062022 {
+	position: absolute;
+	left: 135.88px;
+	top: 505.6px;
+	width: 1166.04px;
+	height: 34.760000000000005px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.LateLoanInstalementsPopup_LateLoanInstalementsPopup .LateLoanInstalements {
+	position: absolute;
+	left: 363.40000000000003px;
+	top: 90.06px;
+	width: 712.58px;
+	height: 47.400000000000006px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 56.88px;
+	font-weight: 700;
+	line-height: 68.83772453308106px;
+}

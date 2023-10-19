@@ -1,0 +1,58 @@
+
+.PromotionPopup_PromotionPopup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.PromotionPopup_PromotionPopup .Frame2 {
+	position: absolute;
+	left: 168.75px;
+	top: 810px;
+	width: 135px;
+	height: 135px;
+}
+.PromotionPopup_PromotionPopup .StayTunedforExcitingPromotions {
+	position: absolute;
+	left: 136.35000000000002px;
+	top: 94.5px;
+	width: 1165.0500000000002px;
+	height: 155.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 64.80000000000001px;
+	font-weight: 700;
+	line-height: 78.4227258682251px;
+}
+.PromotionPopup_PromotionPopup .Currentlytherearenopromotionsavailable {
+	position: absolute;
+	left: 64.80000000000001px;
+	top: 221.4px;
+	width: 1306.8000000000002px;
+	height: 244.35000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 43.2px;
+	font-weight: 500;
+	line-height: 52.2818172454834px;
+}
+.PromotionPopup_PromotionPopup .Rectangle25 {
+	position: absolute;
+	left: 29.700000000000003px;
+	top: 31.05px;
+	width: 1385.1000000000001px;
+	height: 388.8px;
+	background: rgba(255,255,255,0.00);
+	border: 1px solid rgba(255,255,255,1);
+	box-sizing: border-box;
+}

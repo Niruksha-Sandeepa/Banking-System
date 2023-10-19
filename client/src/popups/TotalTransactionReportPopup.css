@@ -1,0 +1,161 @@
+
+.TotalTransactionReportPopup_TotalTransactionReportPopup {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(0,0,0,1.00);
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup .Rectangle19 {
+	position: absolute;
+	left: 75.84px;
+	top: 219.62px;
+	width: 1287.7px;
+	height: 1117.06px;
+	border-radius: 48.980000000000004px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup .TotalTransactionReport {
+	position: absolute;
+	left: 363.40000000000003px;
+	top: 115.34px;
+	width: 712.58px;
+	height: 47.400000000000006px;
+	color: rgba(255,207,67,1.00);
+	font-family: Inter;
+	font-size: 56.88px;
+	font-weight: 700;
+	line-height: 68.83772453308106px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup .FromToAmountDateTime {
+	position: absolute;
+	left: 162.74px;
+	top: 282.82px;
+	width: 1185px;
+	height: 34.760000000000005px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 37.92px;
+	font-weight: 700;
+	line-height: 45.89181735992432px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._12344555432456664600120320221100 {
+	position: absolute;
+	left: 162.74px;
+	top: 382.36px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._12452865434520123100100320221436 {
+	position: absolute;
+	left: 162.74px;
+	top: 485.06px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._145210364358741029400050320220753 {
+	position: absolute;
+	left: 162.74px;
+	top: 587.76px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._85758865432456664700120320221200 {
+	position: absolute;
+	left: 162.74px;
+	top: 690.46px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._18858585893245666410220320220800 {
+	position: absolute;
+	left: 162.74px;
+	top: 793.1600000000001px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._1257803624566644586100220221100 {
+	position: absolute;
+	left: 162.74px;
+	top: 895.86px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._45263078452637894750020320220900 {
+	position: absolute;
+	left: 162.74px;
+	top: 1101.26px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._123445554324566641000020320221100 {
+	position: absolute;
+	left: 162.74px;
+	top: 998.5600000000001px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
+.TotalTransactionReportPopup_TotalTransactionReportPopup ._4523655543452780112010320221000 {
+	position: absolute;
+	left: 162.74px;
+	top: 1203.96px;
+	width: 1172.3600000000001px;
+	height: 39.5px;
+	display: flex;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 31.6px;
+	font-weight: 500;
+	line-height: 38.243179626464844px;
+}
