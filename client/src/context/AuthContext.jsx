@@ -10,6 +10,8 @@ function AuthContextProvider(props) {
     setUserType(user.type)
   }
 
+  
+
   const logout = () => {
     setUser(null)
     setUserType("guest")
