@@ -15,7 +15,7 @@ const UserProfile = () => {
   const accountBranch = "ABC";
 
   return (
-    <Stack direction="row" spacing={20}>
+    <Stack direction="row" spacing={20} sx={{ backgroundColor: "black" }}>
       <Stack spacing={0}>
         <Box textAlign="left" sx={{ padding: "20px 150px" }}>
           {/* Left Side */}
