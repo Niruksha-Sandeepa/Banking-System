@@ -5,14 +5,14 @@ import Box from "@mui/material/Box";
 import { Typography } from "@mui/material";
 import YellowButton from "../../components/YellowButton";
 
-const UserProfile = () => {
-  const accountType = "Adult";
-  const userID = "123456789";
-  const userName = "ABC";
-  const userAge = "22";
-  const userTelephone = "+234 123 456 789";
-  const accountNo = "123456789";
-  const accountBranch = "ABC";
+
+const EmployeeProfile = () => {
+  const employeeID = "123456789";
+  const employeerName = "ABC";
+  const employeeAge = "22";
+  const employeeTelephone = "+234 123 456 789";
+  const Position = "Employee";
+  const Branch = "Marine Province";
 
   return (
     <Stack direction="row" spacing={20}sx={{backgroundColor: "black"}}>
@@ -33,8 +33,9 @@ const UserProfile = () => {
         <Box>
           <Box>
             <img
-              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.om%2Ficons%2Fuser&psig=AOvVaw0SfRuQrptEXGgFZABLsn90&ust=1698658207302000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPC8y4r5moIDFQAAAAAdAAAAABAE"
+              src="assets/profile.png"
               alt="User Icon"
+              
             />
           </Box>
           <Box sx={{ padding: "10px 0px", borderRadius: "20px" }}>
@@ -42,6 +43,7 @@ const UserProfile = () => {
           </Box>
         </Box>
       </Stack>
+
       <Stack spacing={0}>
         <Box textAlign="left" sx={{ padding: "20px 150px" }}>
           {/* Left Side */}
@@ -53,7 +55,7 @@ const UserProfile = () => {
               padding: "0px 0px",
             }}
           >
-            My Details
+            Your Details
           </Typography>
           <Typography
             sx={{
@@ -64,7 +66,7 @@ const UserProfile = () => {
             }}
             fontFamily={"Inter"}
           >
-            ID : {userID}
+            ID : {employeeID}
           </Typography>
           <Typography
             sx={{
@@ -75,7 +77,7 @@ const UserProfile = () => {
             }}
             fontFamily={"Inter"}
           >
-            Name : {userName}
+            Name : {employeerName}
           </Typography>
           <Typography
             sx={{
@@ -86,7 +88,7 @@ const UserProfile = () => {
             }}
             fontFamily={"Inter"}
           >
-            Age : {userAge}
+            Age : {employeeAge}
           </Typography>
           <Typography
             sx={{
@@ -97,58 +99,36 @@ const UserProfile = () => {
             }}
             fontFamily={"Inter"}
           >
-            Telephone No: {userTelephone}
+            Telephone No: {employeeTelephone}
           </Typography>
+          <Typography
+            sx={{
+              color: "white",
+              fontSize: 12,
+              fontWeight: 400,
+              padding: "10px 0px",
+            }}
+            fontFamily={"Inter"}
+          >
+            Position : {Position}
+          </Typography>
+          <Typography
+            sx={{
+              color: "white",
+              fontSize: 12,
+              fontWeight: 400,
+              padding: "10px 0px",
+            }}
+            fontFamily={"Inter"}
+          >
+            Branch : {Branch}
+          </Typography>
+        
         </Box>
-        <Box textAlign="left" sx={{ padding: "20px 150px" }}>
-          {/* Left Side */}
-          <Typography
-            sx={{
-              color: "white",
-              fontSize: 24,
-              fontWeight: 700,
-              padding: "0px 0px",
-            }}
-          >
-            Account Details
-          </Typography>
-          <Typography
-            sx={{
-              color: "white",
-              fontSize: 12,
-              fontWeight: 400,
-              padding: "10px 0px",
-            }}
-            fontFamily={"Inter"}
-          >
-            Account No : {accountNo}
-          </Typography>
-          <Typography
-            sx={{
-              color: "white",
-              fontSize: 12,
-              fontWeight: 400,
-              padding: "10px 0px",
-            }}
-            fontFamily={"Inter"}
-          >
-            Savings plan : {accountType}
-          </Typography>
-          <Typography
-            sx={{
-              color: "white",
-              fontSize: 12,
-              fontWeight: 400,
-              padding: "10px 0px",
-            }}
-            fontFamily={"Inter"}
-          >
-            Branch : {accountBranch}
-          </Typography>
-        </Box>
+        
       </Stack>
     </Stack>
   );
 };
 
-export default UserProfile; // Export the UserProfile component
+export default EmployeeProfile; // Export the UserProfile component
