@@ -1,7 +1,21 @@
-import './App.css';
-function App() {
+import "./App.css"
+import axios from "axios"
+import LoginPopup from "./popups/Login"
 
-  return (<div className="App"> </div>);
+import Home from "./pages/Home.js"
+import Account from "./pages/Account"
+import Welcome from "./pages/Welcome"
+import AuthContextProvider, { AuthContext } from "./context/AuthContext"
+
+function App() {
+  return (
+    <div className="App">
+      <AuthContextProvider>
+        <Account/>
+        {/* <Welcome/> */}
+      </AuthContextProvider>
+    </div>
+  )
 }
 
-export default App;
+export default App
