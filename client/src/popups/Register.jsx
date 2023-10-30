@@ -38,7 +38,6 @@ export default function RegisterPopup(props) {
       .then((response) => {
         // Handle the response as needed
         console.log("Register successful!", response.data)
-        login("user")
         
         // You can also close the dialog or perform other actions on success
         onClose(true)
