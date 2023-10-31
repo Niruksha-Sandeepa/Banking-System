@@ -156,13 +156,16 @@ function NavBar() {
             </Menu>
           </Box>
           <Box>
-            <Typography
-              style={{ ...customFontStyle, fontSize: "20px", fontWeight: 800 }}
-            >
-              <span style={{ color: "white" }}>Nexus</span>
-              <span style={{ color: "#FFCF43" }}> Trust </span>
-              <span style={{ color: "white" }}>Bank</span>
-            </Typography>
+          <div style={{ margin: "5px", padding: "5px", backgroundColor: "Black" }}>
+          <Button
+           size="large"
+           style={{ marginTop: "20px", margin: "10px", color: "white" }}
+          >
+          <span style={{ color: "white" }}>Nexus</span>
+          <span style={{ color: "#FFCF43" }}> Trust </span>
+          <span style={{ color: "white" }}>Bank</span>
+          </Button>
+          </div>
           </Box>
           <Box
             sx={{
@@ -203,7 +206,9 @@ function NavBar() {
                 <PowerSettingsNewIcon />
               </IconButton> */}
               <Box sx={{ flexGrow: 0, display: "flex", alignItems: "center" }}>
-                <Typography></Typography>
+                <Typography>
+                  <span style={{ color: "white" }}>Welcome, </span>
+                </Typography>
                 <IconButton
                   size="large"
                   aria-label="account of current user"
