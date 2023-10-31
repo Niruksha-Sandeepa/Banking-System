@@ -4,8 +4,8 @@ import Box from "@mui/material/Box"
 import Button from "@mui/material/Button"
 import Stack from "@mui/material/Stack"
 import UserProfile from "./UserProfile"
-import EmployeeProfile from "./EmployeeProfile"
 import Footer from "../../components/Footer"
+import ManagerProfile from "./ManagerProfile"
 
 
 
@@ -16,7 +16,7 @@ const Profile = () => {
     <div>
     <NavBar/>
     {/* <UserProfile/> */}
-    <EmployeeProfile/>
+    <ManagerProfile/>
     <Footer/>
     </div>
 
