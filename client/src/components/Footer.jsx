@@ -1,13 +1,29 @@
-import { Stack, Typography } from "@mui/material"
-import React from "react"
-import FacebookIcon from "@mui/icons-material/Facebook"
-import TwitterIcon from "@mui/icons-material/Twitter"
-import InstagramIcon from "@mui/icons-material/Instagram"
-import LinkedInIcon from "@mui/icons-material/LinkedIn"
-import YouTubeIcon from "@mui/icons-material/YouTube"
-import Box from "@mui/material/Box"
+import { Stack, Typography } from "@mui/material";
+import React, { useState } from "react";
+import FacebookIcon from "@mui/icons-material/Facebook";
+import TwitterIcon from "@mui/icons-material/Twitter";
+import InstagramIcon from "@mui/icons-material/Instagram";
+import LinkedInIcon from "@mui/icons-material/LinkedIn";
+import YouTubeIcon from "@mui/icons-material/YouTube";
+import Box from "@mui/material/Box";
+import ContactUsPopup from "../popups/ContactUs";
+import PromotionPopup from "../popups/Promotions";
+import DigitalBankingPopup from "../popups/DigitalBanking";
+import AboutUsPopup from "../popups/AboutUs";
+
+const pages = ["About Us", "Digital Banking", "Promotions", "Contact Us"];
 
 const Footer = () => {
+  const [openPopups, setOpenPopups] = useState({});
+
+  const handleOpenPopup = (page) => {
+    setOpenPopups({ ...openPopups, [page]: true });
+  };
+
+  const handleClosePopup = (page) => {
+    setOpenPopups({ ...openPopups, [page]: false });
+  };
+
   return (
     <Box
       sx={{
@@ -29,6 +45,8 @@ const Footer = () => {
             <Stack direction="row" spacing={10}>
               <Stack spacing={2}>
                 <Typography color="white"> About Us</Typography>
+
+
                 <Typography color="white"> Digital Banking</Typography>
                 <Typography color="white"> Promotions </Typography>
                 <Typography color="white"> Contact Us </Typography>
@@ -67,7 +85,7 @@ const Footer = () => {
                 style={{ height: "20px", width: "20px" }}
               />
               <Typography color="white" width={"240px"}>
-                123 Ocean Avenue,Coral Bay, Seaside City, Marine Province, Zip
+                123 Ocean Avenue, Coral Bay, Seaside City, Marine Province, Zip
                 Code: 56789
               </Typography>
             </Stack>
@@ -90,7 +108,7 @@ const Footer = () => {
         </Stack>
       </Stack>
     </Box>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;
