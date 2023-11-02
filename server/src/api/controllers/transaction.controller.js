@@ -58,7 +58,7 @@ const add_transaction = async (req, res) => {
         const branch_code = req.body.branch_code
     
         try{
-        const transaction = await Trsnsaction.getTransactionByBranch(branch_code)
+        const transaction = await Trsnsaction.getTransactionByBranchCode(branch_code)
         
           console.log("Transaction fetched")
           return res.send({approved:true, transaction: transaction })
