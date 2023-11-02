@@ -4,7 +4,7 @@ import NavigationButton from "./NavigationButton"
 import LateLoanInstalementsPopup from "../../popups/LateLoanInstalements"
 import TotalTransactionReportPopup from "../../popups/TotalTrasactionReport"
 import { AuthContext } from "../../context/AuthContext"
-import { useContext } from "react"
+import { useContext ,useEffect} from "react"
 import LoanSetupPopup from "../../popups/LoanSetupPopup"
 
 const NavigationButtons = () => {
@@ -19,41 +19,31 @@ const NavigationButtons = () => {
   const handleOpenPopup = (page) => {
     setOpenPopups({ ...openPopups, [page]: true })
   }
+  useEffect(() => {
+      console.log(user)
+      console.log("username", username)
+      console.log("usertype", userType)
+    }, [])
+
   return (
     <dev>
-      {userType === "manager" && (
+      {username === "Jhon" && (
         <Stack
           direction="row"
-          spacing={2}
+          spacing={5}
           justifyContent="center"
           paddingTop="20px"
         >
-          <NavigationButton
-            title="Late loan installments"
-            src="dashboard"
-            onClick={() => handleOpenPopup("Late Loan Instalements")}
-          />
-          <NavigationButton
-            title="Plan And Rates"
-            src="plans_and_rates"
-            onClick={() => handleOpenPopup("Total Transactions")}
-          />
-          <NavigationButton title="Contact Us" src="contact_us" />
 
           <NavigationButton
-            title="Late loan installments"
-            src="dashboard"
-            onClick={() => handleOpenPopup("Late Loan Instalements")}
-          />
-          <NavigationButton
-            title="Plan And Rates"
+            title="Total Transactions"
             src="plans_and_rates"
             onClick={() => handleOpenPopup("Total Transactions")}
           />
           <NavigationButton title="Contact Us" src="contact_us" />
         </Stack>
       )}
-      {userType !== "employee" && (
+      {(userType === "employee") && (username !== "Jhon") && (
         <Stack
           direction="row"
           spacing={2}
@@ -62,7 +52,7 @@ const NavigationButtons = () => {
         >
           <NavigationButton
             title="Loan Setup"
-            src="dashboard"
+            src="loans"
             onClick={() => handleOpenPopup("Loan Setup")}
           />
           <NavigationButton
@@ -86,9 +76,8 @@ const NavigationButtons = () => {
       <LoanSetupPopup
         open={openPopups["Loan Setup"]}
         onClose={() => handleClosePopup("Loan Setup")}
-        name={"Loan Setup"}/>
-
-      
+        name={"Loan Setup"}
+      />
     </dev>
   )
 }
